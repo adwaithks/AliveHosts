@@ -1,0 +1,2 @@
+# AliveHosts
+Bug bounty
