@@ -2,16 +2,15 @@
 Bug bounty Tool
 
 
-Usage:
+<h2>Usage:</h2>
 
-python livehosts.py <filename.txt>
+<p>python livehosts.py filename.txt </p>
 
-Feature:
+<h2>Feature:</h2>
 
-livehosts.py takes in a text file containing subdomains line by line. It probes for http and https and prints it the console if the host is alive. It omits the offline hosts in the output screen.
-
-![screenshot](livehosts.png)
+livehosts.py takes in a text file containing subdomains line by line. It probes for http and https and prints it the console if the host is alive. It omits the offline hosts in the output screen.<strong>Multhring support included</strong>
 
 
-Tested In:
-  Ubuntu 16.04
+
+<h2>Tested In:</h2>
+  <p>Ubuntu 16.04</p>
