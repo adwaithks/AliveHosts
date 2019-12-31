@@ -8,7 +8,7 @@ Bug bounty Tool
 
 <h2>Feature:</h2>
 
-livehosts.py takes in a text file containing subdomains line by line. It probes for http and https and prints it the console if the host is alive. It omits the offline hosts in the output screen.<strong>Multhring support included</strong>
+livehosts.py takes in a text file containing subdomains line by line. It probes for http and https and prints it the console if the host is alive. It omits the offline hosts in the output screen.<strong>Multhreading support included</strong>
 
 
 
