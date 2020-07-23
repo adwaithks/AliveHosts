@@ -1,16 +1,15 @@
 # LiveHosts
-Bug bounty Tool
+Takes a list of domains and probe for port 80 and 443.
 
+## Description
+```
+livehosts.py takes in a text file containing subdomains line by line. It probes for http and https and prints it the console if the host is alive. It omits the offline hosts in the output screen.[ Multhreading built in. ]
+```
 
-<h2>Usage:</h2>
-
+## Usage
+```
 <p>python livehosts.py filename.txt </p>
+```
 
-<h2>Feature:</h2>
-
-livehosts.py takes in a text file containing subdomains line by line. It probes for http and https and prints it the console if the host is alive. It omits the offline hosts in the output screen.<strong>Multhreading support included</strong>
-
-
-
-<h2>Tested In:</h2>
-  <p>Ubuntu 16.04</p>
+## Tested In:
+  -Ubuntu 16.04
