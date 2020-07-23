@@ -8,8 +8,8 @@ livehosts.py takes in a text file containing subdomains line by line. It probes 
 
 ## Usage
 ```
-<p>python livehosts.py filename.txt </p>
+python livehosts.py filename.txt
 ```
 
 ## Tested In:
-  -Ubuntu 16.04
+  - Ubuntu 16.04
